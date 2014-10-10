@@ -89,7 +89,7 @@ import csv
 # # 	if 
 
 
-
+print "okay im changing a thing now"
 
 
 
